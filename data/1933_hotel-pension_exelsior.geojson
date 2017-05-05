@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [34.8405,32.1070]
+  },
+  "properties": {
+    "name": "Hotel-Pension Exelsior, Tel Aviv",
+    "description": "John A. Widtsoe, as president of the European Mission, stayed in this hotel when he visited the Armenian Mission in 1933.",
+    "date": "1933",
+    "address": "Hajarkon Str, Hotel-Pension Exelsior, Tel Aviv",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/todrobbins/mormon-addresses/master/images/1933_hotel-pension_exelsior.jpg"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://www.keepapitchinin.org/2017/04/13/i-take-up-my-pen-hotel-pension-exelsior-tel-aviv-1933/"
+      }
+    ],
+    "tags": ["Armenia", "Armenian Mission", "1933", "hotel", "European Mission", "John A. Widstoe", "Palestine"]
+  }
+}
