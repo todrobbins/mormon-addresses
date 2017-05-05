@@ -2,7 +2,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [43.0600,-77.2301]
+    "coordinates": [-77.2301,43.0600]
   },
   "properties": {
     "name": "Hill Cumorah Bureau of Information",

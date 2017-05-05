@@ -2,7 +2,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [34.06379,-118.44313]
+    "coordinates": [-118.44313,34.06379]
   },
   "properties": {
     "name": "Institute of Religion, Los Angeles",
