@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [34.06379,-118.44313]
+  },
+  "properties": {
+    "name": "Institute of Religion, Los Angeles",
+    "date": "1945",
+    "address": "10845 Le Conte Avenue, Los Angeles, California",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/todrobbins/mormon-addresses/master/images/1945_institute_of_religion_los_angeles.jpg"
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://www.keepapitchinin.org/2017/04/20/i-take-up-my-pen-institute-of-religion-los-angeles-1945/"
+      }
+    ]
+  }
+}
