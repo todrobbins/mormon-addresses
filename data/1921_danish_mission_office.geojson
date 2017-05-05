@@ -2,7 +2,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [55.6850498,12.5579661]
+    "coordinates": [12.5579661,55.6850498]
   },
   "properties": {
     "name": "Danish Mission Office",
